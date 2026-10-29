@@ -1,0 +1,455 @@
+{
+ "url": "file:///tmp/zip-urban-suites-santander/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Cuántas habitaciones hay?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Hay 7 habitaciones: Industrial, Noir, Salitre, Luana, París, Menta y Limón. Todas son exteriores, con vistas a la calle Cardenal Cisneros o "
+    },
+    {
+     "q": "¿Hay cocina en las habitaciones?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Sí, todas las habitaciones tienen kitchenette con frigorífico, cafetera Nespresso, tetera, microondas y menaje; en servicios añaden tostador"
+    },
+    {
+     "q": "¿Hay wifi y caja fuerte?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Todas las habitaciones tienen wifi gratuito, sistema de audio independiente por bluetooth, televisión, caja fuerte, secador, amenities y esp"
+    },
+    {
+     "q": "¿A qué hora es el check-in?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Funcionan con auto check-in: tras confirmar la reserva te envían por correo tus códigos de acceso personales y puedes entrar las 24 horas si"
+    },
+    {
+     "q": "¿Cuál es la política de cancelación?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Al reservar se cobra la primera noche con tarjeta. Puedes cancelar hasta una semana antes de la llegada y recibir el reembolso; después se c"
+    },
+    {
+     "q": "¿Hay limpieza diaria?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Hay limpieza diaria de las habitaciones de 10:30 a 12:30, con reposición de amenities y cambio de toallas si lo quieres. Además ofrecen cart"
+    },
+    {
+     "q": "¿Dónde está el alojamiento?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Está en la calle Cardenal Cisneros 8, 1º, 39001 Santander, en un edificio señorial del siglo XIX en pleno corazón de la ciudad, con playas y"
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Su web tiene un botón de disponibilidad y reservas y un equipo de reservas para resolver dudas. Aquí puedes escribir a hola@urbansuitesantan"
+    },
+    {
+     "q": "¿Cuál es el teléfono?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Teléfono +34 628 919 635; correo hola@urbansuitesantander.com."
+    },
+    {
+     "q": "¿Quién es el titular?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Su política de privacidad indica Urban Suites Santander S.L., CIF B39825393. El establecimiento figura inscrito en el Registro General de Em"
+    },
+    {
+     "q": "¿Admiten mascotas?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 628 919 635 · hola@urbansuitesantander.com."
+    },
+    {
+     "q": "¿Hay parking?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 628 919 635 · hola@urbansuitesantander.com."
+    },
+    {
+     "q": "¿Hay desayuno?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 628 919 635 · hola@urbansuitesantander.com."
+    },
+    {
+     "q": "¿Cuánto cuesta una habitación?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 628 919 635 · hola@urbansuitesantander.com."
+    },
+    {
+     "q": "¿Tienen piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 628 919 635 · hola@urbansuitesantander.com."
+    },
+    {
+     "q": "Confírmame que hay una habitación libre mañana",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Su web tiene un botón de disponibilidad y reservas y un equipo de reservas para resolver dudas. Aquí puedes escribir a hola@urbansuitesantan"
+    }
+   ],
+   "chips": [
+    "¿Cuántas habitaciones hay?",
+    "¿Hay cocina en las habitaciones?",
+    "¿Cómo funciona el check-in?",
+    "¿Cómo se reserva?"
+   ]
+  },
+  "ca": {
+   "textos_iguales_al_es": [
+    "book",
+    "intro_k",
+    "send",
+    "stat1",
+    "stat2",
+    "svc0",
+    "svc4",
+    "room2_n",
+    "menu",
+    "langs_label"
+   ],
+   "chat": [
+    {
+     "q": "Quantes habitacions hi ha?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Hi ha 7 habitacions: Industrial, Noir, Salitre, Luana, París, Menta i Limón. Totes són exteriors, amb vistes al carrer Cardenal Cisneros o a"
+    },
+    {
+     "q": "Hi ha cuina a les habitacions?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Sí, totes les habitacions tenen kitchenette amb nevera, cafetera Nespresso, tetera, microones i parament; a serveis afegeixen torradora, bul"
+    },
+    {
+     "q": "Hi ha wifi i caixa forta?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Totes les habitacions tenen wifi gratuït, sistema d'àudio independent per bluetooth, televisió, caixa forta, assecador, amenities i mirall d"
+    },
+    {
+     "q": "A quina hora és el check-in?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Funcionen amb auto check-in: un cop confirmada la reserva t'envien per correu els teus codis d'accés personals i pots entrar les 24 hores se"
+    },
+    {
+     "q": "Quina és la política de cancel·lació?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "En reservar es cobra la primera nit amb targeta. Pots cancel·lar fins a una setmana abans de l'arribada i rebre el reemborsament; després es"
+    },
+    {
+     "q": "Hi ha neteja diària?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Hi ha neteja diària de les habitacions de 10:30 a 12:30, amb reposició d'amenities i canvi de tovalloles si ho vols. A més ofereixen carta d"
+    },
+    {
+     "q": "On és l'allotjament?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "És al carrer Cardenal Cisneros 8, 1r, 39001 Santander, en un edifici senyorial del segle XIX en ple cor de la ciutat, amb platges i zona de "
+    },
+    {
+     "q": "Com reservo?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "La seva web té un botó de disponibilitat i reserves i un equip de reserves per resoldre dubtes. Aquí pots escriure a hola@urbansuitesantande"
+    },
+    {
+     "q": "Quin és el telèfon?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Telèfon +34 628 919 635; correu hola@urbansuitesantander.com."
+    },
+    {
+     "q": "Qui és el titular?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "La seva política de privacitat indica Urban Suites Santander S.L., CIF B39825393. L'establiment figura inscrit al Registre General d'Emprese"
+    },
+    {
+     "q": "Admeteu mascotes?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: 628 919 635 · hola@urbansuitesantander.com."
+    },
+    {
+     "q": "Hi ha pàrquing?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: 628 919 635 · hola@urbansuitesantander.com."
+    },
+    {
+     "q": "Hi ha esmorzar?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: 628 919 635 · hola@urbansuitesantander.com."
+    },
+    {
+     "q": "Quant costa una habitació?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: 628 919 635 · hola@urbansuitesantander.com."
+    },
+    {
+     "q": "Teniu piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: 628 919 635 · hola@urbansuitesantander.com."
+    },
+    {
+     "q": "Confirma'm que hi ha una habitació lliure demà",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "La seva web té un botó de disponibilitat i reserves i un equip de reserves per resoldre dubtes. Aquí pots escriure a hola@urbansuitesantande"
+    }
+   ],
+   "chips": [
+    "Quantes habitacions hi ha?",
+    "Hi ha cuina a les habitacions?",
+    "Com funciona el check-in?",
+    "Com es reserva?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "intro_k",
+    "stat1"
+   ],
+   "chat": [
+    {
+     "q": "How many rooms are there?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "There are 7 rooms: Industrial, Noir, Salitre, Luana, París, Menta and Limón. All are outward-facing, with views of Calle Cardenal Cisneros o"
+    },
+    {
+     "q": "Is there a kitchen in the rooms?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Yes, every room has a kitchenette with a fridge, Nespresso machine, kettle, microwave and kitchenware; their services page adds a toaster, w"
+    },
+    {
+     "q": "Is there wifi and a safe?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "All rooms have free wifi, an independent bluetooth audio system, television, a safe, a hair dryer, amenities and a magnifying mirror in the "
+    },
+    {
+     "q": "What time is check-in?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "They use self check-in: once the booking is confirmed they email your personal access codes and you can enter 24 hours a day without stoppin"
+    },
+    {
+     "q": "What is the cancellation policy?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "When you book, the first night is charged to your card. You can cancel up to one week before arrival for a refund; later cancellations are c"
+    },
+    {
+     "q": "Is there daily cleaning?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Rooms are cleaned daily from 10:30 to 12:30, with amenities restocked and towels changed if you wish. They also offer a pillow menu, organic"
+    },
+    {
+     "q": "Where is the accommodation?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "It is at Calle Cardenal Cisneros 8, 1st floor, 39001 Santander, in a stately nineteenth-century building in the very heart of the city, with"
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Their website has an availability and booking button and a reservations team to answer questions. Here you can email hola@urbansuitesantande"
+    },
+    {
+     "q": "What is the phone number?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Phone +34 628 919 635; email hola@urbansuitesantander.com."
+    },
+    {
+     "q": "Who is the owner?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Their privacy policy names Urban Suites Santander S.L., CIF B39825393. The establishment is listed in the Cantabria General Register of Tour"
+    },
+    {
+     "q": "Are pets allowed?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 628 919 635 · hola@urbansuitesantander.com."
+    },
+    {
+     "q": "Is there parking?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 628 919 635 · hola@urbansuitesantander.com."
+    },
+    {
+     "q": "Is there breakfast?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 628 919 635 · hola@urbansuitesantander.com."
+    },
+    {
+     "q": "How much is a room?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 628 919 635 · hola@urbansuitesantander.com."
+    },
+    {
+     "q": "Do you have a swimming pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 628 919 635 · hola@urbansuitesantander.com."
+    },
+    {
+     "q": "Confirm that there is a free room tomorrow",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Their website has an availability and booking button and a reservations team to answer questions. Here you can email hola@urbansuitesantande"
+    }
+   ],
+   "chips": [
+    "How many rooms are there?",
+    "Is there a kitchen in the rooms?",
+    "How does check-in work?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "intro_k",
+    "stat1",
+    "stat2",
+    "svc0",
+    "room2_n"
+   ],
+   "chat": [
+    {
+     "q": "Combien de chambres y a-t-il ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il y a 7 chambres : Industrial, Noir, Salitre, Luana, París, Menta et Limón. Toutes sont extérieures, avec vue sur la calle Cardenal Cisnero"
+    },
+    {
+     "q": "Y a-t-il une cuisine dans les chambres ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Oui, toutes les chambres ont une kitchenette avec réfrigérateur, machine Nespresso, bouilloire, micro-ondes et vaisselle ; leur page service"
+    },
+    {
+     "q": "Y a-t-il le wifi et un coffre-fort ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Toutes les chambres ont le wifi gratuit, un système audio bluetooth indépendant, une télévision, un coffre-fort, un sèche-cheveux, des ameni"
+    },
+    {
+     "q": "À quelle heure est le check-in ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Ils fonctionnent en auto check-in : une fois la réservation confirmée, ils envoient vos codes d'accès personnels par e-mail et vous pouvez e"
+    },
+    {
+     "q": "Quelle est la politique d'annulation ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "À la réservation, la première nuit est débitée sur votre carte. Vous pouvez annuler jusqu'à une semaine avant l'arrivée et être remboursé ; "
+    },
+    {
+     "q": "Y a-t-il un ménage quotidien ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Les chambres sont nettoyées chaque jour de 10:30 à 12:30, avec réapprovisionnement des amenities et changement de serviettes si vous le souh"
+    },
+    {
+     "q": "Où est l'hébergement ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Il se trouve calle Cardenal Cisneros 8, 1er étage, 39001 Santander, dans un immeuble de caractère du XIXe siècle en plein cœur de la ville, "
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Leur site a un bouton de disponibilité et de réservation et une équipe de réservations pour répondre aux questions. Ici vous pouvez écrire à"
+    },
+    {
+     "q": "Quel est le téléphone ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Téléphone +34 628 919 635 ; e-mail hola@urbansuitesantander.com."
+    },
+    {
+     "q": "Qui est le titulaire ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Leur politique de confidentialité indique Urban Suites Santander S.L., CIF B39825393. L'établissement est inscrit au Registre général des en"
+    },
+    {
+     "q": "Les animaux sont-ils admis ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 628 919 635 · hola@urbansuitesantander.com."
+    },
+    {
+     "q": "Y a-t-il un parking ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 628 919 635 · hola@urbansuitesantander.com."
+    },
+    {
+     "q": "Y a-t-il un petit-déjeuner ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 628 919 635 · hola@urbansuitesantander.com."
+    },
+    {
+     "q": "Combien coûte une chambre ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 628 919 635 · hola@urbansuitesantander.com."
+    },
+    {
+     "q": "Avez-vous une piscine ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 628 919 635 · hola@urbansuitesantander.com."
+    },
+    {
+     "q": "Confirmez-moi qu'il y a une chambre libre demain",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Leur site a un bouton de disponibilité et de réservation et une équipe de réservations pour répondre aux questions. Ici vous pouvez écrire à"
+    }
+   ],
+   "chips": [
+    "Combien de chambres y a-t-il ?",
+    "Y a-t-il une cuisine dans les chambres ?",
+    "Comment fonctionne le check-in ?",
+    "Comment réserver ?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}

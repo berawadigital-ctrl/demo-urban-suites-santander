@@ -1,0 +1,772 @@
+{
+ "schema": "berawa-knowledge/1",
+ "project": "demo-urban-suites-santander",
+ "source_site": "https://urbansuitesantander.com/",
+ "source_read_at": "2026-10-29T04:06:00+01:00",
+ "note": "Respuestas solo con datos publicados en urbansuitesantander.com. Sin coincidencia: el asistente dice que no dispone de la informacion y ofrece contacto.",
+ "entries": [
+  {
+   "id": "K01",
+   "topic": "habitaciones",
+   "keys": {
+    "es": [
+     "cuantas habitaciones",
+     "que habitaciones",
+     "tipos de",
+     "siete",
+     "industrial",
+     "noir",
+     "salitre",
+     "luana",
+     "paris",
+     "menta",
+     "limon",
+     "vistas",
+     "exterior",
+     "balcon",
+     "ventanal",
+     "colchon"
+    ],
+    "ca": [
+     "quantes habitacions",
+     "quines habitacions",
+     "tipus d",
+     "set habitacions",
+     "industrial",
+     "noir",
+     "salitre",
+     "luana",
+     "paris",
+     "menta",
+     "limon",
+     "vistes",
+     "exterior",
+     "balco",
+     "finestral",
+     "matalas"
+    ],
+    "en": [
+     "how many rooms",
+     "what rooms",
+     "room types",
+     "types of",
+     "seven",
+     "industrial",
+     "noir",
+     "salitre",
+     "luana",
+     "paris",
+     "menta",
+     "limon",
+     "views",
+     "outward",
+     "balcon",
+     "window",
+     "mattress"
+    ],
+    "fr": [
+     "combien de chambres",
+     "quelles chambres",
+     "types de",
+     "sept",
+     "industrial",
+     "noir",
+     "salitre",
+     "luana",
+     "paris",
+     "menta",
+     "limon",
+     "vue",
+     "exterieure",
+     "balcon",
+     "vitrees",
+     "matelas"
+    ]
+   },
+   "a": {
+    "es": "Hay 7 habitaciones: Industrial, Noir, Salitre, Luana, París, Menta y Limón. Todas son exteriores, con vistas a la calle Cardenal Cisneros o a la calle Cervantes, grandes ventanales y, la mayoría, balcones y miradores. Tienen colchones viscoelásticos.",
+    "ca": "Hi ha 7 habitacions: Industrial, Noir, Salitre, Luana, París, Menta i Limón. Totes són exteriors, amb vistes al carrer Cardenal Cisneros o al carrer Cervantes, grans finestrals i, la majoria, balcons i miradors. Tenen matalassos viscoelàstics.",
+    "en": "There are 7 rooms: Industrial, Noir, Salitre, Luana, París, Menta and Limón. All are outward-facing, with views of Calle Cardenal Cisneros or Calle Cervantes, large windows and, mostly, balconies and glazed bays. They have viscoelastic mattresses.",
+    "fr": "Il y a 7 chambres : Industrial, Noir, Salitre, Luana, París, Menta et Limón. Toutes sont extérieures, avec vue sur la calle Cardenal Cisneros ou la calle Cervantes, de grandes baies vitrées et, pour la plupart, des balcons et miradors. Elles ont des matelas viscoélastiques."
+   },
+   "sources": [
+    {
+     "url": "https://urbansuitesantander.com/habitaciones/",
+     "quote": "Te ofrecemos 7 habitaciones"
+    },
+    {
+     "url": "https://urbansuitesantander.com/habitaciones/",
+     "quote": "1 INDUSTRIAL 2 NOIR 3 SALITRE 4 LUANA 5 PARIS 6 MENTA 7 LIMON"
+    },
+    {
+     "url": "https://urbansuitesantander.com/habitaciones/",
+     "quote": "Todas las habitaciones de nuestro establecimiento son exteriores, con vistas a la calle Cardenal Cisneros o a la calle Cervantes"
+    },
+    {
+     "url": "https://urbansuitesantander.com/habitaciones/",
+     "quote": "la mayoría de ellas con balcones y miradores"
+    },
+    {
+     "url": "https://urbansuitesantander.com/habitaciones/",
+     "quote": "Disponen de colchones viscoelásticos"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K02",
+   "topic": "cocina",
+   "keys": {
+    "es": [
+     "cocina",
+     "kitchenette",
+     "nespresso",
+     "microondas",
+     "frigorifico",
+     "nevera",
+     "cafetera",
+     "tetera",
+     "menaje",
+     "tostadora",
+     "cocinar"
+    ],
+    "ca": [
+     "cuina",
+     "kitchenette",
+     "nespresso",
+     "microones",
+     "nevera",
+     "cafetera",
+     "tetera",
+     "parament",
+     "torradora",
+     "cuinar"
+    ],
+    "en": [
+     "kitchen",
+     "kitchenette",
+     "nespresso",
+     "microwave",
+     "fridge",
+     "coffee",
+     "kettle",
+     "kitchenware",
+     "toaster",
+     "cook"
+    ],
+    "fr": [
+     "cuisine",
+     "kitchenette",
+     "nespresso",
+     "micro ondes",
+     "frigo",
+     "refrigerateur",
+     "cafetiere",
+     "bouilloire",
+     "vaisselle",
+     "grille pain",
+     "cuisiner"
+    ]
+   },
+   "a": {
+    "es": "Sí, todas las habitaciones tienen kitchenette con frigorífico, cafetera Nespresso, tetera, microondas y menaje; en servicios añaden tostadora, hervidor, utensilios de cocina y fregadero.",
+    "ca": "Sí, totes les habitacions tenen kitchenette amb nevera, cafetera Nespresso, tetera, microones i parament; a serveis afegeixen torradora, bullidor, estris de cuina i pica.",
+    "en": "Yes, every room has a kitchenette with a fridge, Nespresso machine, kettle, microwave and kitchenware; their services page adds a toaster, water boiler, cooking utensils and a sink.",
+    "fr": "Oui, toutes les chambres ont une kitchenette avec réfrigérateur, machine Nespresso, bouilloire, micro-ondes et vaisselle ; leur page services ajoute grille-pain, bouilloire, ustensiles de cuisine et évier."
+   },
+   "sources": [
+    {
+     "url": "https://urbansuitesantander.com/habitaciones/",
+     "quote": "Todas disponen de Kitchenette con frigorífico"
+    },
+    {
+     "url": "https://urbansuitesantander.com/habitaciones/",
+     "quote": "microondas, menaje"
+    },
+    {
+     "url": "https://urbansuitesantander.com/servicios/",
+     "quote": "frigorífico, microondas, cafetera, tostadora, hervidor de agua, utensilios de cocina, y fregadero"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K03",
+   "topic": "equipamiento",
+   "keys": {
+    "es": [
+     "wifi",
+     "wi fi",
+     "internet",
+     "caja fuerte",
+     "television",
+     "secador",
+     "plancha",
+     "bluetooth",
+     "audio",
+     "amenities",
+     "equipamiento",
+     "que incluye",
+     "espejo"
+    ],
+    "ca": [
+     "wifi",
+     "wi fi",
+     "internet",
+     "caixa forta",
+     "televisio",
+     "assecador",
+     "planxa",
+     "bluetooth",
+     "audio",
+     "amenities",
+     "equipament",
+     "que inclou",
+     "mirall"
+    ],
+    "en": [
+     "wifi",
+     "wi fi",
+     "internet",
+     "safe",
+     "television",
+     " tv",
+     "hair dryer",
+     "iron",
+     "bluetooth",
+     "audio",
+     "amenities",
+     "equipment",
+     "what is included",
+     "mirror"
+    ],
+    "fr": [
+     "wifi",
+     "wi fi",
+     "internet",
+     "coffre",
+     "television",
+     "seche cheveux",
+     "fer a repasser",
+     "bluetooth",
+     "audio",
+     "amenities",
+     "equipement",
+     "miroir"
+    ]
+   },
+   "a": {
+    "es": "Todas las habitaciones tienen wifi gratuito, sistema de audio independiente por bluetooth, televisión, caja fuerte, secador, amenities y espejo de aumento en el baño; también hay plancha a tu disposición.",
+    "ca": "Totes les habitacions tenen wifi gratuït, sistema d'àudio independent per bluetooth, televisió, caixa forta, assecador, amenities i mirall d'augment al bany; també hi ha planxa a la teva disposició.",
+    "en": "All rooms have free wifi, an independent bluetooth audio system, television, a safe, a hair dryer, amenities and a magnifying mirror in the bathroom; an iron is also available.",
+    "fr": "Toutes les chambres ont le wifi gratuit, un système audio bluetooth indépendant, une télévision, un coffre-fort, un sèche-cheveux, des amenities et un miroir grossissant dans la salle de bain ; un fer à repasser est aussi à disposition."
+   },
+   "sources": [
+    {
+     "url": "https://urbansuitesantander.com/habitaciones/",
+     "quote": "Además WIFI gratuito, sistema de audio independiente vía bluetooth, televisión, caja fuerte, secador, amenities y espejo de aumento en el baño"
+    },
+    {
+     "url": "https://urbansuitesantander.com/servicios/",
+     "quote": "Tienes secador de pelo y plancha a tu disposición"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K04",
+   "topic": "auto check-in",
+   "keys": {
+    "es": [
+     "check in",
+     "check out",
+     "checkin",
+     "checkout",
+     "auto",
+     "codigos",
+     "hora de entrada",
+     "hora de salida",
+     "llegada",
+     "recepcion",
+     "llaves",
+     "acceso"
+    ],
+    "ca": [
+     "check in",
+     "check out",
+     "checkin",
+     "checkout",
+     "auto",
+     "codis",
+     "hora d entrada",
+     "hora de sortida",
+     "arribada",
+     "recepcio",
+     "claus",
+     "acces"
+    ],
+    "en": [
+     "check in",
+     "check out",
+     "checkin",
+     "checkout",
+     "self",
+     "codes",
+     "arrival",
+     "departure",
+     "reception",
+     "keys",
+     "access"
+    ],
+    "fr": [
+     "check in",
+     "check out",
+     "checkin",
+     "checkout",
+     "autonome",
+     "codes",
+     "arrivee",
+     "depart",
+     "reception",
+     "cles",
+     "acces"
+    ]
+   },
+   "a": {
+    "es": "Funcionan con auto check-in: tras confirmar la reserva te envían por correo tus códigos de acceso personales y puedes entrar las 24 horas sin pasar por recepción. El check-in es a partir de las 13:00 y el check-out antes de las 11:00. Hay un teléfono de recepción para lo que necesites.",
+    "ca": "Funcionen amb auto check-in: un cop confirmada la reserva t'envien per correu els teus codis d'accés personals i pots entrar les 24 hores sense passar per recepció. El check-in és a partir de les 13:00 i el check-out abans de les 11:00. Hi ha un telèfon de recepció per al que necessitis.",
+    "en": "They use self check-in: once the booking is confirmed they email your personal access codes and you can enter 24 hours a day without stopping at reception. Check-in is from 13:00 and check-out before 11:00. There is a reception phone for anything you need.",
+    "fr": "Ils fonctionnent en auto check-in : une fois la réservation confirmée, ils envoient vos codes d'accès personnels par e-mail et vous pouvez entrer 24 h/24 sans passer par la réception. Le check-in est à partir de 13:00 et le check-out avant 11:00. Un téléphone de réception est disponible pour tout besoin."
+   },
+   "sources": [
+    {
+     "url": "https://urbansuitesantander.com/condiciones-de-reservas/",
+     "quote": "te enviaremos a tu correo electrónico tus Códigos de Acceso Personales"
+    },
+    {
+     "url": "https://urbansuitesantander.com/condiciones-de-reservas/",
+     "quote": "durante las 24 horas y sin la necesidad de la presencia física de nuestro equipo de recepción"
+    },
+    {
+     "url": "https://urbansuitesantander.com/condiciones-de-reservas/",
+     "quote": "El horario para realizar el Check-in será a partir de las 13:00 horas del día de llegada. El Check-out será siempre antes de las 11:00 del día de salida."
+    },
+    {
+     "url": "https://urbansuitesantander.com/servicios/",
+     "quote": "solo tienes que llamarnos al teléfono de recepción"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K05",
+   "topic": "cancelación y pago",
+   "keys": {
+    "es": [
+     "cancel",
+     "reembolso",
+     "tarjeta",
+     "cargo",
+     "iva",
+     "pago",
+     "condiciones",
+     "devolucion"
+    ],
+    "ca": [
+     "cancel",
+     "reemborsament",
+     "targeta",
+     "carrec",
+     "iva",
+     "pagament",
+     "condicions",
+     "devolucio"
+    ],
+    "en": [
+     "cancel",
+     "refund",
+     "card",
+     "charge",
+     "vat",
+     "payment",
+     "conditions",
+     "terms"
+    ],
+    "fr": [
+     "annul",
+     "remboursement",
+     "carte",
+     "debit",
+     "tva",
+     "paiement",
+     "conditions"
+    ]
+   },
+   "a": {
+    "es": "Al reservar se cobra la primera noche con tarjeta. Puedes cancelar hasta una semana antes de la llegada y recibir el reembolso; después se cobra la primera noche. El resto de la estancia se cobra el día del check-in. Las tarifas llevan IVA incluido.",
+    "ca": "En reservar es cobra la primera nit amb targeta. Pots cancel·lar fins a una setmana abans de l'arribada i rebre el reemborsament; després es cobra la primera nit. La resta de l'estada es cobra el dia del check-in. Les tarifes porten IVA inclòs.",
+    "en": "When you book, the first night is charged to your card. You can cancel up to one week before arrival for a refund; later cancellations are charged the first night. The rest of the stay is charged on check-in day. Rates include VAT.",
+    "fr": "À la réservation, la première nuit est débitée sur votre carte. Vous pouvez annuler jusqu'à une semaine avant l'arrivée et être remboursé ; ensuite la première nuit est facturée. Le reste du séjour est débité le jour du check-in. Les tarifs incluent la TVA."
+   },
+   "sources": [
+    {
+     "url": "https://urbansuitesantander.com/condiciones-de-reservas/",
+     "quote": "se realiza un cargo por el importe de la primera noche de la estancia"
+    },
+    {
+     "url": "https://urbansuitesantander.com/condiciones-de-reservas/",
+     "quote": "Dispones de hasta una semana antes del día de llegada para cancelar tu reserva y recibir el reembolso del pago realizado"
+    },
+    {
+     "url": "https://urbansuitesantander.com/condiciones-de-reservas/",
+     "quote": "Toda cancelación posterior supondrá el cargo de la primera noche en tu tarjeta de crédito"
+    },
+    {
+     "url": "https://urbansuitesantander.com/condiciones-de-reservas/",
+     "quote": "Todos nuestras tarifas son con IVA incluido"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K06",
+   "topic": "limpieza y servicios",
+   "keys": {
+    "es": [
+     "limpieza",
+     "toallas",
+     "almohada",
+     "biblioteca",
+     "servicios",
+     "libro",
+     "zonas comunes"
+    ],
+    "ca": [
+     "neteja",
+     "tovalloles",
+     "coixi",
+     "biblioteca",
+     "serveis",
+     "llibre",
+     "zones comunes"
+    ],
+    "en": [
+     "cleaning",
+     "towels",
+     "pillow",
+     "library",
+     "services",
+     "reading",
+     "common areas"
+    ],
+    "fr": [
+     "menage",
+     "nettoyage",
+     "serviettes",
+     "oreiller",
+     "bibliotheque",
+     "services",
+     "livre",
+     "parties communes"
+    ]
+   },
+   "a": {
+    "es": "Hay limpieza diaria de las habitaciones de 10:30 a 12:30, con reposición de amenities y cambio de toallas si lo quieres. Además ofrecen carta de almohadas, toallas de algodón egipcio ecológico y una biblioteca. Las habitaciones son privadas: no compartes zonas comunes con otros huéspedes.",
+    "ca": "Hi ha neteja diària de les habitacions de 10:30 a 12:30, amb reposició d'amenities i canvi de tovalloles si ho vols. A més ofereixen carta de coixins, tovalloles de cotó egipci ecològic i una biblioteca. Les habitacions són privades: no comparteixes zones comunes amb altres hostes.",
+    "en": "Rooms are cleaned daily from 10:30 to 12:30, with amenities restocked and towels changed if you wish. They also offer a pillow menu, organic Egyptian cotton towels and a library. Rooms are private: you share no common areas with other guests.",
+    "fr": "Les chambres sont nettoyées chaque jour de 10:30 à 12:30, avec réapprovisionnement des amenities et changement de serviettes si vous le souhaitez. Ils proposent aussi une carte d'oreillers, des serviettes en coton égyptien écologique et une bibliothèque. Les chambres sont privées : vous ne partagez aucune partie commune avec d'autres clients."
+   },
+   "sources": [
+    {
+     "url": "https://urbansuitesantander.com/servicios/",
+     "quote": "Servicio de limpieza diaria de habitaciones en horario de 10:30-12:30, reposición de amenities y cambio de toallas si lo necesitas"
+    },
+    {
+     "url": "https://urbansuitesantander.com/servicios/",
+     "quote": "CARTA DE ALMOHADAS"
+    },
+    {
+     "url": "https://urbansuitesantander.com/habitaciones/",
+     "quote": "toallas 100% algodón egipcio ecológico"
+    },
+    {
+     "url": "https://urbansuitesantander.com/servicios/",
+     "quote": "BIBLIOTECA"
+    },
+    {
+     "url": "https://urbansuitesantander.com/servicios/",
+     "quote": "no compartirás zonas comunes con otros huéspedes"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K07",
+   "topic": "ubicación",
+   "keys": {
+    "es": [
+     "donde",
+     "direccion",
+     "ubicacion",
+     "situado",
+     "mapa",
+     "llegar",
+     "bahia",
+     "playa",
+     "compras",
+     "edificio",
+     "centro",
+     "calle"
+    ],
+    "ca": [
+     " on ",
+     "adreca",
+     "ubicacio",
+     "situat",
+     "mapa",
+     "arribar",
+     "badia",
+     "platja",
+     "compres",
+     "edifici",
+     "centre",
+     "carrer"
+    ],
+    "en": [
+     "where",
+     "address",
+     "location",
+     "located",
+     "map",
+     "get there",
+     "bay",
+     "beach",
+     "shopping",
+     "building",
+     "centre",
+     "center",
+     "street"
+    ],
+    "fr": [
+     "ou est",
+     "adresse",
+     "situe",
+     "plan",
+     "arriver",
+     "baie",
+     "plage",
+     "achats",
+     "immeuble",
+     "centre",
+     "rue"
+    ]
+   },
+   "a": {
+    "es": "Está en la calle Cardenal Cisneros 8, 1º, 39001 Santander, en un edificio señorial del siglo XIX en pleno corazón de la ciudad, con playas y zona de compras cerca y a pocos minutos andando de la bahía.",
+    "ca": "És al carrer Cardenal Cisneros 8, 1r, 39001 Santander, en un edifici senyorial del segle XIX en ple cor de la ciutat, amb platges i zona de compres a prop i a pocs minuts caminant de la badia.",
+    "en": "It is at Calle Cardenal Cisneros 8, 1st floor, 39001 Santander, in a stately nineteenth-century building in the very heart of the city, with beaches and shopping nearby and a few minutes' walk from the bay.",
+    "fr": "Il se trouve calle Cardenal Cisneros 8, 1er étage, 39001 Santander, dans un immeuble de caractère du XIXe siècle en plein cœur de la ville, avec plages et zone commerçante à proximité et à quelques minutes à pied de la baie."
+   },
+   "sources": [
+    {
+     "url": "https://urbansuitesantander.com/",
+     "quote": "Urban Suite Santander C/ Cardenal Cisneros 8, 1º 39001 Santander"
+    },
+    {
+     "url": "https://urbansuitesantander.com/",
+     "quote": "Urban Suite se encuentra en un edificio señorial del S.XIX en pleno corazón de Santander"
+    },
+    {
+     "url": "https://urbansuitesantander.com/",
+     "quote": "poniendo a tu disposición playas, zona de compras, entornos naturales y estarás a tan sólo unos minutos andando de una de las bahías más bonitas del mundo"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K08",
+   "topic": "reservar",
+   "keys": {
+    "es": [
+     "reserv",
+     "disponib",
+     "confirmame",
+     "libre",
+     "fechas",
+     "promo"
+    ],
+    "ca": [
+     "reserv",
+     "disponib",
+     "confirma m",
+     "lliure",
+     "dates",
+     "promo"
+    ],
+    "en": [
+     "book",
+     "reserv",
+     "availab",
+     "confirm",
+     "free room",
+     "dates",
+     "promo"
+    ],
+    "fr": [
+     "reserv",
+     "disponib",
+     "confirmez",
+     "libre",
+     "dates",
+     "promo"
+    ]
+   },
+   "a": {
+    "es": "Su web tiene un botón de disponibilidad y reservas y un equipo de reservas para resolver dudas. Aquí puedes escribir a hola@urbansuitesantander.com o llamar al +34 628 919 635. Este asistente no confirma disponibilidad ni reservas.",
+    "ca": "La seva web té un botó de disponibilitat i reserves i un equip de reserves per resoldre dubtes. Aquí pots escriure a hola@urbansuitesantander.com o trucar al +34 628 919 635. Aquest assistent no confirma disponibilitat ni reserves.",
+    "en": "Their website has an availability and booking button and a reservations team to answer questions. Here you can email hola@urbansuitesantander.com or call +34 628 919 635. This assistant does not confirm availability or bookings.",
+    "fr": "Leur site a un bouton de disponibilité et de réservation et une équipe de réservations pour répondre aux questions. Ici vous pouvez écrire à hola@urbansuitesantander.com ou appeler le +34 628 919 635. Cet assistant ne confirme ni disponibilité ni réservation."
+   },
+   "sources": [
+    {
+     "url": "https://urbansuitesantander.com/",
+     "quote": "ver disponibilidad y reservas"
+    },
+    {
+     "url": "https://urbansuitesantander.com/realizar-reserva/",
+     "quote": "Nuestro equipo de Reservas estará encantado de resolver cualquier duda que tengas de forma personalizada"
+    },
+    {
+     "url": "https://urbansuitesantander.com/realizar-reserva/",
+     "quote": "TELÉFONO RESERVAS: +34 628 919 635"
+    },
+    {
+     "url": "https://urbansuitesantander.com/realizar-reserva/",
+     "quote": "Información y reservas: hola@urbansuitesantander.com"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K09",
+   "topic": "contacto",
+   "keys": {
+    "es": [
+     "telefono",
+     "llamar",
+     "correo",
+     "email",
+     "contacto",
+     "contactar",
+     "whatsapp",
+     "movil"
+    ],
+    "ca": [
+     "telefon",
+     "trucar",
+     "correu",
+     "email",
+     "contacte",
+     "contactar",
+     "whatsapp",
+     "mobil"
+    ],
+    "en": [
+     "phone",
+     "call",
+     "email",
+     " mail",
+     "contact",
+     "whatsapp",
+     "mobile"
+    ],
+    "fr": [
+     "telephone",
+     "appeler",
+     "email",
+     " mail",
+     "contact",
+     "whatsapp",
+     "mobile"
+    ]
+   },
+   "a": {
+    "es": "Teléfono +34 628 919 635; correo hola@urbansuitesantander.com.",
+    "ca": "Telèfon +34 628 919 635; correu hola@urbansuitesantander.com.",
+    "en": "Phone +34 628 919 635; email hola@urbansuitesantander.com.",
+    "fr": "Téléphone +34 628 919 635 ; e-mail hola@urbansuitesantander.com."
+   },
+   "sources": [
+    {
+     "url": "https://urbansuitesantander.com/",
+     "quote": "+34 628 919 635"
+    },
+    {
+     "url": "https://urbansuitesantander.com/",
+     "quote": "hola@urbansuitesantander.com"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K10",
+   "topic": "titular",
+   "keys": {
+    "es": [
+     "titular",
+     "propietario",
+     "razon social",
+     "cif",
+     "quien es",
+     "registro",
+     "licencia"
+    ],
+    "ca": [
+     "titular",
+     "propietari",
+     "rao social",
+     "cif",
+     "qui es",
+     "registre",
+     "llicencia"
+    ],
+    "en": [
+     "owner",
+     "owns",
+     "legal name",
+     "cif",
+     "who is",
+     "register",
+     "licence",
+     "license"
+    ],
+    "fr": [
+     "titulaire",
+     "proprietaire",
+     "raison sociale",
+     "cif",
+     "qui est",
+     "registre",
+     "licence"
+    ]
+   },
+   "a": {
+    "es": "Su política de privacidad indica Urban Suites Santander S.L., CIF B39825393. El establecimiento figura inscrito en el Registro General de Empresas Turísticas de Cantabria con el nº 5193.",
+    "ca": "La seva política de privacitat indica Urban Suites Santander S.L., CIF B39825393. L'establiment figura inscrit al Registre General d'Empreses Turístiques de Cantàbria amb el núm. 5193.",
+    "en": "Their privacy policy names Urban Suites Santander S.L., CIF B39825393. The establishment is listed in the Cantabria General Register of Tourism Businesses with no. 5193.",
+    "fr": "Leur politique de confidentialité indique Urban Suites Santander S.L., CIF B39825393. L'établissement est inscrit au Registre général des entreprises touristiques de Cantabrie sous le n° 5193."
+   },
+   "sources": [
+    {
+     "url": "https://urbansuitesantander.com/politica-de-privacidad/",
+     "quote": "Nuestra denominación: Urban Suites Santander S.L Nuestro CIF / NIF: B39825393"
+    },
+    {
+     "url": "https://urbansuitesantander.com/",
+     "quote": "establecimiento inscrito en el Registro General de Empresas Turísticas de Cantabria con el nº 5193"
+    }
+   ],
+   "cta": false
+  }
+ ]
+}
