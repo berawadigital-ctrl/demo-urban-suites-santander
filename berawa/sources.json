@@ -1,0 +1,41 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://urbansuitesantander.com/",
+ "read_at": "2026-10-29T04:06:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://urbansuitesantander.com/",
+   "sha256": "12f912bfbbf98c04acc3939d06d3fa894ae37c7f702882ad58b4a11e0b516163",
+   "chars": 7321
+  },
+  {
+   "url": "https://urbansuitesantander.com/condiciones-de-reservas/",
+   "sha256": "436af08c2d72339d3142ee5459fcc21c8593c38892f358ac3d93d756e8b1f5f0",
+   "chars": 7921
+  },
+  {
+   "url": "https://urbansuitesantander.com/habitaciones/",
+   "sha256": "a7c63c690eced03a2febcc8c8683c869f7a94fa8f423435a9479a2dc2a73c472",
+   "chars": 6952
+  },
+  {
+   "url": "https://urbansuitesantander.com/politica-de-privacidad/",
+   "sha256": "72aa76dc58bf7d94a825996cb73b3ecb35d0157d1d6eeec380152eda35522957",
+   "chars": 13185
+  },
+  {
+   "url": "https://urbansuitesantander.com/realizar-reserva/",
+   "sha256": "33d4413c73fb9c75be6030de62f1c01bbfccfcabc4e8adf9e05fb8b17ded5c79",
+   "chars": 8335
+  },
+  {
+   "url": "https://urbansuitesantander.com/servicios/",
+   "sha256": "5f31a87b070327793fda1b2baee90929276843d59838e865bd19c22b137f5a13",
+   "chars": 7549
+  }
+ ],
+ "other_pages_read": [
+  "https://urbansuitesantander.com/aviso-legal/"
+ ]
+}
