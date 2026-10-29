@@ -1,0 +1,64 @@
+{
+ "schema": "berawa-project/1",
+ "slug": "demo-urban-suites-santander",
+ "template_version": "webfactory-2026.10.28+modelo-cazorla-6cfa67d",
+ "created_at": "2026-10-29T04:08:00+01:00",
+ "updated_at": "2026-10-29T04:10:00+01:00",
+ "business": {
+  "name": "Urban Suite Santander",
+  "legal_name": "Urban Suites Santander S.L.",
+  "registry_ids": [
+   "CIF B39825393",
+   "Registro de Empresas Turisticas de Cantabria n. 5193"
+  ],
+  "url": "https://urbansuitesantander.com/",
+  "domain": "urbansuitesantander.com",
+  "municipality": "Santander",
+  "province": "Cantabria",
+  "address": "Calle Cardenal Cisneros 8, 1º · 39001 Santander",
+  "phones": [
+   "628 919 635"
+  ],
+  "emails": [
+   "hola@urbansuitesantander.com"
+  ],
+  "sector": "aparthotel de habitaciones con kitchenette en el centro"
+ },
+ "rating": {
+  "value": 4.5,
+  "source": "Google Maps (maps_rating.py, ficha comprobada por web)",
+  "url": "https://www.google.com/maps/place/Urban+Suite+Santander/@43.4632508,-3.8110714,17z/data=!4m9!3m8!1s0xd494bcc215546b7:0xef2e681ff8a3f9b3!5m2!4m1!1i2!8m2!3d43.4632508!4d-3.8110714!16s%2Fg%2F11clsgvp54",
+  "date": "2026-10-29T04:02:03+01:00",
+  "threshold": 4.0
+ },
+ "languages": [
+  "es",
+  "ca",
+  "en",
+  "fr"
+ ],
+ "noindex": true,
+ "notice_es": "Propuesta de rediseño independiente, no oficial",
+ "chatbot": {
+  "api": false,
+  "kind": "base local de respuestas verificadas",
+  "knowledge": "berawa/knowledge.json",
+  "fallback_es": "No dispongo de esa información"
+ },
+ "book": {
+  "mode": "mail",
+  "email": "hola@urbansuitesantander.com",
+  "note": "La web del negocio reserva con un motor propio; la demo usa solo contacto real (correo y telefono)."
+ },
+ "audit_original": {
+  "url": "https://urbansuitesantander.com/",
+  "date": "2026-10-29T04:08:00+01:00",
+  "veredicto": "LCP > 4 s",
+  "tool": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "first_of_type": "primer tipo de negocio sin precedente: aparthotel urbano de habitaciones con kitchenette y auto check-in (el modelo aprobado Cazorla Rural es alojamiento rural)",
+ "codex": {
+  "audits": []
+ },
+ "changes_log": "ver CORRECCIONES.md (si existe) y berawa/V1.0-CAMBIOS.md"
+}
